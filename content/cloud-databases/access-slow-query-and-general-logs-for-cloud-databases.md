@@ -10,7 +10,7 @@ last_modified_by: Nate Archer
 product: Cloud Databases
 product_url: cloud-databases
 ---
-
+I am adding something 
 Database logs can be useful tools when analyzing database performance or troubleshooting issues. You can enable logging slow queries or general database activity for a MySQL Cloud Databases instance by attaching a configuration group to the instance with the appropriate parameters set.
 
 ### Prerequisites
